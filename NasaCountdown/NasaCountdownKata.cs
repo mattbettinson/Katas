@@ -15,6 +15,9 @@ namespace NasaCountdown
 
             do
             {
+                if (start < 0)
+                    break;
+
                 list.Add(start);
                 start--;
             }
