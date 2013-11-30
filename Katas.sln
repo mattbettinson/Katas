@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeaParty", "TeaParty\TeaParty.csproj", "{1695413C-3747-4342-97A5-D86CA4ACE022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NasaCountdown", "NasaCountdown\NasaCountdown.csproj", "{2DCE17E7-0399-4DB1-B02E-EAD8FEDA8821}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1695413C-3747-4342-97A5-D86CA4ACE022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1695413C-3747-4342-97A5-D86CA4ACE022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1695413C-3747-4342-97A5-D86CA4ACE022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCE17E7-0399-4DB1-B02E-EAD8FEDA8821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCE17E7-0399-4DB1-B02E-EAD8FEDA8821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCE17E7-0399-4DB1-B02E-EAD8FEDA8821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCE17E7-0399-4DB1-B02E-EAD8FEDA8821}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
