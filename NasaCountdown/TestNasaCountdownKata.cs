@@ -10,6 +10,9 @@ namespace NasaCountdown
     [TestFixture]
     public class TestNasaCountdownKata
     {
+        [TestCase(-2, new int[] { })]
+        [TestCase(-1, new int[] { })]
+        [TestCase(0, new[] { 0 })]
         [TestCase(1, new[] { 1, 0})]
         [TestCase(2, new[] { 2, 1, 0 })]
         [TestCase(3, new[] { 3, 2, 1, 0 })]
